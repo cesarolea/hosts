@@ -1,0 +1,17 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+192.168.50.101  local.fandora.com merchant-services.fandora.com local.easypay.com
+54.86.248.73    loanpro.master1
+54.175.6.117    loanpro.processes
+52.1.249.152    easypay
+52.73.85.168    mc.beta
+52.2.78.121     mc.prod
+52.200.222.142  mc-web.prod
+192.168.33.33   flotiya.local
